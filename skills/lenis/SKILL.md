@@ -1,6 +1,6 @@
 ---
 name: lenis
-description: Set up and debug Lenis smooth scroll (vanilla JS, React, Next.js, Vue, Nuxt) from the library's authors, Darkroom Engineering. Covers the recommended CSS, the frame loop, GSAP ScrollTrigger sync, Tempus ordering, WebGL scroll sync, per-frame performance in scroll callbacks, sticky pinning, nested scroll, anchors, snap, and reduced motion. Use when a task mentions Lenis, smooth scroll, `scroll-behavior: smooth`, ScrollTrigger lagging or jittering, scroll-synced WebGL, or a scroll-driven section that stutters.
+description: "Set up and debug Lenis smooth scroll (vanilla JS, React, Next.js, Vue, Nuxt) from the library's authors, Darkroom Engineering. Covers the recommended CSS, the frame loop, GSAP ScrollTrigger sync, Tempus ordering, WebGL scroll sync, per-frame performance in scroll callbacks, sticky pinning, nested scroll, anchors, snap, and reduced motion. Use when a task mentions Lenis, smooth scroll, `scroll-behavior: smooth`, ScrollTrigger lagging or jittering, scroll-synced WebGL, or a scroll-driven section that stutters."
 license: MIT
 ---
 
